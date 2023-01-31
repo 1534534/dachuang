@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="beijing">
+    <file>1.png</file>
+    <file>设置.png</file>
+    <file>日志.png</file>
+    <file>全局设置.png</file>
+    <file>放大.png</file>
+    <file>224用户.png</file>
+    <file>文件夹.png</file>
+    <file>文件.png</file>
+    <file>选择文件.png</file>
+    <file>历史记录.png</file>
+    <file>save.png</file>
+    <file>图层 1.png</file>
+    <file>图层 2.png</file>
+    <file>background.png</file>
+    <file>1413012235-43G.png</file>
+  </qresource>
+</RCC>
